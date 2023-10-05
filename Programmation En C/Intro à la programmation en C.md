@@ -8,7 +8,7 @@ Ecrire une fonction qui doit afficher toutes les lettres de l’alphabet sans re
 
 Voici un exemple de la résolution de cet énoncé : 
 __________________________________________________________________
-`#include <unistd.h> 
+#include <unistd.h> 
 
 int my_alphabet(void) {
 
