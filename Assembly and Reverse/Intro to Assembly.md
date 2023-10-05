@@ -88,7 +88,7 @@ section .text
 global my_isalpha
 
 my_isalpha:
-    ; Je check  si le caractère est une lettre minuscule
+    
     cmp rdi, 'a'
     jl .not_alpha
     cmp rdi, 'z'
@@ -97,7 +97,7 @@ my_isalpha:
     ret
 
 .check_uppercase:
-    ; On check si le caractère est une lettre majuscule
+    
     cmp rdi, 'A'
     jl .not_alpha
     cmp rdi, 'Z'
@@ -106,7 +106,7 @@ my_isalpha:
     ret
 
 .not_alpha:
-    ; Le caractère n'est pas alphabétique ce sera donc ma condition de if not
+    
     xor rax, rax
     ret
 ___________________________________________________
