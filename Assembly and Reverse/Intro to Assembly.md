@@ -35,18 +35,18 @@ ________________________________________________________________
 section .text 
 global my_bsr my_bsr: 
 
-; Vérifie si la valeur est zéro 
+
 test rdi, rdi 
 jz done 
 
-; Utilise l'instruction BSR pour trouver le bit le plus grand 
+
 
 bsr rax, rdi 
 inc rax 
 ret 
 
 done: 
-; Si la valeur est zéro, retourne zéro
+
  xor rax, rax ret
 
 ________________________________________________________________
