@@ -162,4 +162,4 @@ On renvoie `count`, qui est maintenant le nombre total de caractères dans la ch
 
 C’est la fin de la fonction `my_strlen`.
 
-J’espère que cela vous aide à comprendre comment fonctionne cette version itérative de `my_strlen`. N’hésitez pas si vous avez d’autres questions !
+J'espère que cela vous aidera.
