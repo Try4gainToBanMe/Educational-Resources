@@ -31,7 +31,7 @@ Dans le contexte de la mémoire, le MSB peut se référer à l’organisation de
 # Un exemple ? 
 
 Voici un exemple :
-
+________________________________________________________________
 section .text 
 global my_bsr my_bsr: 
 
@@ -49,6 +49,7 @@ done:
 ; Si la valeur est zéro, retourne zéro
  xor rax, rax ret
 
+________________________________________________________________
 
 Enfin bref voici une explication ligne par ligne : 
 
