@@ -9,10 +9,15 @@ Ecrire une fonction qui doit afficher toutes les lettres de l’alphabet sans re
 Voici un exemple de la résolution de cet énoncé : 
 __________________________________________________________________
 `#include <unistd.h> 
+
 int my_alphabet(void) {
+
     int i;
+    
     char c;
+    
     for (i = 0, c = 'a'; c <= 'z'; ++i, ++c) {
+    
         write(1, &c, 1);
     }
     return i;
