@@ -20,7 +20,7 @@ I will give you only interesting and straight to the points facts that you'll ne
 
 In neurosciences research has revealed that the average adult human is only able to concentrate on a task for around 15 to 20 minutes, suggesting most of us are struggling to maintain focus for long periods of time.
 
-That means if you have a course that last 4h, you have to turn off your brain in order to not pickup the useful informations and only put all your focus on the real facts and things that will be useful.
+That means if you have a course that last 4h, you have to "turn off" your brain in order to not pickup the useless informations and only put all your focus on the real facts and things that will be useful.
 
 You will probably have some teachers or mentors in your classrooms.
 
