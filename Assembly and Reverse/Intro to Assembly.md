@@ -33,6 +33,8 @@ Dans le contexte de la mémoire, le MSB peut se référer à l’organisation de
 Voici un exemple :
 ________________________________________________________________
 section .text 
+
+
 global my_bsr my_bsr: 
 
 
