@@ -8,7 +8,7 @@ Anyways.
 
 I'm not trying to prove that I am outsmarting everyone, of course it's alot of try and retry especially on subject likes Assembly.
 
-I mentionned earlier that changing your mindset is sometimes more optimal if you wanna learn from someone so here is mine and I higlhy encourage to adopt it atleast for 2 weeks then leave it if you can't afford to be like me (that must be tiring I agree). 
+I mentionned earlier that changing your mindset is sometimes more optimal if you wanna learn from someone so here is mine and I highly encourage to adopt it atleast for 2 weeks then leave it if you can't afford to be like me (that must be tiring I agree). 
 
 Here is my mindset 
 
