@@ -37,17 +37,20 @@ global my_bsr my_bsr:
 
 
 test rdi, rdi 
+
 jz done 
 
 
 
-bsr rax, rdi 
-inc rax 
+bsr rax, rdi
+ 
+inc rax
+ 
 ret 
 
 done: 
 
- xor rax, rax ret
+xor rax, rax ret
 
 ________________________________________________________________
 
